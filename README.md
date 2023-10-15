@@ -4,4 +4,4 @@ Pada Kesempatan Kali ini ([Open this website](https://youtu.be/I50Xwve6QW4)),  S
 # Screenshot
 Berikut ini adalah Hasil Screenshot nya :
 
-![screenshot](hasil-screenhot.png)
+![screenshot](hasil-screenshot.png)
